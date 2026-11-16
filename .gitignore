@@ -1,0 +1,13 @@
+node_modules/
+package-lock.json
+
+# Estado de runtime: qué índice salió la última vez (anti-repetición)
+estado-frases.json
+.gentleman-greeting-state.json
+
+# Backups que deja install.sh al reemplazar una versión anterior
+*.bak-*
+
+# Índice local de CodeGraph y documentos de trabajo ODD
+.codegraph/
+odd/
