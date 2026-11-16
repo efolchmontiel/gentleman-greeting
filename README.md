@@ -44,6 +44,9 @@ En Windows, desde PowerShell: `.\install.ps1` (o `.\install.ps1 -DryRun`).
 gentle-shell install git:github.com/efolchmontiel/gentleman-greeting
 ```
 
+Si el instalador de paquetes te complica (depende de tu versión del harness), el instalador de
+arriba hace lo mismo copiando dos carpetas y es la vía probada.
+
 ## Terminales
 
 El dibujo usa el **Kitty Graphics Protocol**, vía `@earendil-works/pi-tui`. El harness detecta el
